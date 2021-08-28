@@ -6,5 +6,5 @@ Kindly import the required packages.
 2. BeautifulSoup4 (I mean, implied, duh)
 3. urllib3 (Url parsing, use your favourite)
 
-**I will be candid and say, I am a learning develeper, so any kind of appreciated.**
+**I will be candid and say, I am a learning develeper, so any kind of feedaback is appreciated.**
 **Spare this noob**
